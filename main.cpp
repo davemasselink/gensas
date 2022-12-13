@@ -35,6 +35,7 @@
 #include "SasLexico.h"
 #include "SasExpr.h"
 #include "SasComputation.h"
+#include "SasModel.h"
 #include <memory>
 // #include <memory>
 // #include "debug_new.h"
